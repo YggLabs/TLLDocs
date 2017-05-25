@@ -1,6 +1,6 @@
-## Welcome to The Living Labynth Documentation 
+## Welcome to The Living Labyrinth Documentation 
 
-You view the current docs [on our wiki](https://github.com/YggLabs/TLLDocs/wiki) please feel free to contrbiute and help us maintain the docs.
+You may view the current docs [on our wiki](https://github.com/YggLabs/TLLDocs/wiki). Please feel free to contribute and help us maintain the docs.
 
 ### Server Configs
 
