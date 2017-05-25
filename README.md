@@ -1,29 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to The Living Labynth Documentation 
 
-You can use the [editor on GitHub](https://github.com/YggLabs/TLLDocs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You view the current docs [on our wiki](https://github.com/YggLabs/TLLDocs/wiki) please feel free to contrbiute and help us maintain the docs.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Server Configs
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
