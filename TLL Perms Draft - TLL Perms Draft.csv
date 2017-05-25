@@ -1,0 +1,40 @@
+Rank,Colour,Parents,Track,Default Gamemode,Build Permission,"Rank Bonus
+Nucleus ","Rank Bonus
+Adventure MMO","Rank Bonus
+TotalEconomy","Rank Bonus
+WorldEdit",Deny,Notes
+,,,,,,Nucleus http://nucleuspowered.org/docs/,"Adventure MMO          
+One of the following per EXP Rank
+Fishing,Farming,Acrobatics,Taming,Repair, Salvage,
+Swords,Axes,Unarmed,Archery","Jobs: Fishing
+Farming, Repair,Blacksmith,Butcher,Baker","Limit max blocks changed, log changes (?)",,
+,,,,,,,,,,,
+default (ghost),,,Explorer,Adventure,deny,"rules,helpop",,,,,Convert to Eng1 Exp1 and Explorer?
+Explorer,,,career,Adventure,deny,"namecolor orange, motd, info",,,,,Nerfs Engineer perms
+Engineer,,,career,Creative,allow,"namecolor blue, motd, info",,,,,Nerfs Explorer perms
+Exp1,orange,,Explorer,Adventure,deny (or home?),"message(reply, message), warp, kill (self), kits(list)","Two Skills
+Skills([skill]), Skilltop([skill]), settings","job(set(fee) toggle info)
+pay(to exp only)
+ballance",,,Use Commandbook stuff
+Exp2,orange,Exp1,Explorer,Adventure,deny (or home?),"chat (color, url), ignore, kits(list),mail (send, clear)",One new skill,,,,
+Exp3,orange,Exp2,Explorer,Adventure,deny (or home?),"chat (magic), hat, home (?)",One new skill,,,,
+Exp4,orange,Exp3,Explorer,Adventure,deny (or home?),,One new skill,,,,
+Exp5,orange,Exp4,Explorer,Adventure,deny (or home?),,One new skill,,,,
+Eng1,blue,,Engineer,Creative,build region,"message(reply, message),warp        ",,,"wand, expand, count, distr, info, fixwater/lava, toggleeditwand, pos, sel","MobSpawner, Bedrock",Create Commandbook stuff
+Eng2,blue,Eng1,Engineer,Creative,build region,"back (tp), color chat, warp set (? - limited), ignore, mail(clear, send), ",,,"set, copy/paste,cut, move, replace, rotate, flip, mirror, UNDO, spawnmob","MobSpawner, Bedrock",
+Eng3,blue,Eng2,Engineer,,build region,"magic chat, lightning, ignite (self), lore",,,"stack, schematics, cyl, pyramid, walls, brush, drain",,
+Eng4,blue,Eng3,Engineer,Creative,global,enchant,,,"setbiome, setspawner",,Lite Sniper (TBC)
+Eng5,blue,Eng4,Engineer,Creative,global,,,,fill,,"Voxel Sniper Off by default
+Limit range 100 blocks"
+Mod,,default?,Staff,Any,per group,"broadcast, exp, tempban, checkban, jail, checkjail, jails, kick, weather, fly, ignite (others), lightning (others), Home (set other), ignore, invsee, enderchest, enchant, repair, kit (give,list ), mail (clear send other), message (message,reply,socialspy), note (all),playerinfo(all) staff-chat, telport(tpahere,tphere,tpthere), vanish, warn(checkwarnings)",mmoadmin(view),"Balance Set (flag)
+Admin Pay (flag)","UNDO other, ex",,
+Admin,,Mod,Staff,Any,Always true,"exp (give, set, take), freeze, plainbroadcast, sudo, ban/unban,tp(all), jail (set/delete), blacklist (set, bypass), namecolor red, itemalias (set, clear), save, lockweather, time set, fly (others), info (list), itemname, lore, kit (all), warn (removewarning, clearwarnings), rules (add, remove)",mmoadmin(stat),,"restore, snapshot?",,"Root plugin perms
+PJP admin only
+Some FoxGaurd"""
+Janitor,,Admin?,Staff,Any,Always true,ALL,,,Override max blocks & blacklist,,
+,,,,,,,,,,,
+Build Group,,,,Any,per user,,,,,,For closed Engineer collaborations
+,,,,,,,,,,,Note: perms change when completed (Could delete build group or modify handler)
+,,,,,,Nucleus from kits onwards is done - worm * I'm up to KITS,,,,,"
+"
+,,,,,,"Then we do AdventureMMO, TotalEconomy, WorldEdit, PJP, VoxelSniper, Foxguard (not much)",,,,,
